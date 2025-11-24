@@ -21,7 +21,7 @@ It is a modular Python calculator supporting chained operations with a basic and
 2. Open the Project Directory
 3. Ensure Python Is Installed
 4. Install Required Dependencies
-5. Run the main file:
+5. Run the main file
 
 # Instructions for Testing
 - Test the function by giving desired inputs and performing basic operations. 

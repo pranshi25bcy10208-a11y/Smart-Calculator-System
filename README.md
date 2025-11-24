@@ -1,30 +1,41 @@
 # Smart-Calculator-System
-A simple and modular calculator is created as a CSE project.
-It highlights basic programming concepts, modular design, algorithms, and input checking.
+A modular calculator application built as part of CSE project. This project demonstrates core programming concepts, including modular design, algorithms, and use of built-in functions.
 
 # Overview
-It is a modular Python calculator supporting chained operations with a basic and clean program structure.
+A Python-based scientific calculator that supports both basic arithmetic and advanced mathematical
+operations. It includes unary functions like square root, logarithms, trigonometric functions, and
+factorial operations. The calculator supports continuous calculations and automatic restart functionality.
 
 # Features
-- Basic arithematic operations- Add, subtract, multiply, divide
-- Continuous calculations
-- Automatic restart
-- Modular functions
+1. Arithmetic Operations
+- Addition (+)
+- Subtraction (-)
+- Multiplication (*)
+- Division (/)
+- Power (^)
+2. Scientific Operations
+- Square root (√)
+- Logarithm base 10 (log)
+- Natural log (ln)
+- Factorial (!)
+3. Trigonometric Operations (Degrees Mode)
+- sin
+- cos
+- tan
 
-# Technologies/ Tools Used
+# Technology/ Tools Used
 - Python 3
-- VS Code
-- Geeks for Geeks
+- math library (trigonometry, logarithms, factorial, sqrt)
+- geeksforgeeks
 
-# Steps to install & run the project
-1. Clone the Repository
-2. Open the Project Directory
-3. Ensure Python Is Installed
-4. Install Required Dependencies
-5. Run the main file
-
-# Instructions for Testing
-- Test the function by giving desired inputs and performing basic operations. 
-
-# Screenshot
-<img width="1834" height="383" alt="image" src="https://github.com/user-attachments/assets/85d94058-d070-46e6-a795-9edb184f602f" />
+# Steps to Install & Run the Project
+- Clone the Repository
+- Open the Project Directory
+- Ensure Python Is Installed
+- Install Required Dependencies (if any)
+- Run the main file
+   
+ # Instructions for Testing
+- Save the program as `calculator.py`
+- Open a terminal and run
+- Input the desired number, then give an operation and then input the second number and run the code.

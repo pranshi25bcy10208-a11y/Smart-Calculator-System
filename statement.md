@@ -1,14 +1,21 @@
 # Problem Statement
-To build a simple, modular calculator that supports chained basic arithmetic operations with or without restarting.
+To build a modular calculator that supports chained basic and scientific built-in arithmetic operations with or without restarting.
 
 # Scope of the project
-Basic arithmetic, modular design.
+- Basic arithmetic functions
+- Scientific functions (power, sqrt, log, ln)
+- Trigonometric functions (sin, cos, tan)
+- Factorial computation
+- Continuous calculation modes
 
 # Target Users
-Students, beginners, anyone needing quick calculations.
-
+- Students
+- Programmers
+- Anyone needing a lightweight scientific calculator
+  
 # High-Level Features
-- Arithmetic operations
-- Continuous calculation mode
-- Restart workflow
-- Modular architecture
+- Modular operations mapped through a dictionary
+- Separate operations handling
+- Recursion-based restart mechanism
+- Trigonometric and logarithmic computations
+- User-friendly workflow

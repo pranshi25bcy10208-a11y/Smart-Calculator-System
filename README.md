@@ -26,7 +26,7 @@ factorial operations. The calculator supports continuous calculations and automa
 # Technology/ Tools Used
 - Python 3
 - math library (trigonometry, logarithms, factorial, sqrt)
-- geeksforgeeks
+- VS Code
 
 # Steps to Install & Run the Project
 - Clone the Repository
